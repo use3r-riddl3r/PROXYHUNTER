@@ -229,7 +229,14 @@ Contributions are welcome adding new data sources, improving validation logic, e
 
 ---
 
-```
+> *In the theater of anonymity, every proxy is a player, every connection a performance. The stage is set. Your move determines the ending.*
+>
+> *Every revelation is a choice. Every choice echoes.*
+
+---
+
+<div align="center">
+
 ╲╲╲▕▏╭━━━━╮▕▏╱╱╱
 ╲╲╲▕▏┃┏━━┓┃▕▏╱╱╱
 ╲╲╲▕▏┗╯╭━┛┃▕▏╱╱╱
@@ -237,8 +244,5 @@ Contributions are welcome adding new data sources, improving validation logic, e
 ╱╱╱▕▏┊┊┗╯┊┊▕▏╲╲╲
 ╱╱╱▕▏┊┊┏┓┊┊▕▏╲╲╲
 ╱╱╱▕▏┊┊┗╯┊┊▕▏╲╲╲
-```
 
-> *In the theater of anonymity, every proxy is a player, every connection a performance. The stage is set. Your move determines the ending.*
->
-> *Every revelation is a choice. Every choice echoes.*
+</div>
