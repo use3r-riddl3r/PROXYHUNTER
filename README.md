@@ -1,5 +1,7 @@
 # ProxyHunter v2
 
+[![Visitors](https://hits.sh/github.com/use3r-riddl3r/PROXYHUNTER.svg?style=flat-square&label=Visitors)](https://hits.sh/github.com/use3r-riddl3r/PROXYHUNTER/)
+
 A proxy discovery and validation toolkit that combines multiple public sources with intelligent filtering and profiling.
 
 ---
@@ -236,8 +238,6 @@ Contributions are welcome adding new data sources, improving validation logic, e
 ╱╱╱▕▏┊┊┏┓┊┊▕▏╲╲╲
 ╱╱╱▕▏┊┊┗╯┊┊▕▏╲╲╲
 ```
-
-## A Thought
 
 > *In the theater of anonymity, every proxy is a player, every connection a performance. The stage is set. Your move determines the ending.*
 >
